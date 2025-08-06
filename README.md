@@ -4,11 +4,6 @@
 
 **NewsCheckr** analyzes news articles from any URL and provides credibility scores, political bias detection, and AI-generated summaries. Built with Python Flask backend and modern React frontend.
 
-![NewsCheckr Screenshot](https://via.placeholder.com/800x400/4F46E5/FFFFFF?text=NewsCheckr+Interface)
-
-## 🚀 Live Demo
-
-Try it out: [Demo Link] (Add your deployed URL here)
 
 ## ✨ Key Features
 
