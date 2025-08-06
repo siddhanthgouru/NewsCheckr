@@ -79,7 +79,7 @@ Try it out: [Demo Link] (Add your deployed URL here)
 
 ### Backend Setup
 ```bash
-git clone https://github.com/yourusername/newscheckr.git
+git clone https://github.com/siddhanthgouru/NewsCheckr.git
 cd NewsCheckr
 
 # Create virtual environment
@@ -208,9 +208,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - [@yourusername](https://twitter.com/yourusername) - your.email@example.com
+Siddhanth Gouru - [@siddhanthgouru](https://twitter.com/siddhanthgouru) - siddhanth.gouru@example.com
 
-Project Link: [https://github.com/yourusername/newscheckr](https://github.com/yourusername/newscheckr)
+Project Link: [https://github.com/siddhanthgouru/NewsCheckr](https://github.com/siddhanthgouru/NewsCheckr)
 
 ---
 
